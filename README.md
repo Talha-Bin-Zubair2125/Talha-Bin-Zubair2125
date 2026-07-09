@@ -213,12 +213,9 @@ Full Stack MERN Developer • AI/ML Enthusiast • Building Scalable AI-Powered 
 # 📈 GitHub Stats
 
 <p align="center">
-<img width="49%" style="max-width:100%;" src="https://github-readme-stats.vercel.app/api?username=Talha-Bin-Zubair2125&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" style="max-width:100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Talha-Bin-Zubair2125&theme=tokyonight&hide_border=true"/>
-</p>
+  <img width="49%" src="https://github-readme-stats-nine-ruby-1k1p7k5oec.vercel.app/api?username=Talha-Bin-Zubair2125&show_icons=true&theme=tokyonight&hide_border=true" alt="Talha's GitHub Stats"/>
 
-<p align="center">
-<img width="49%" style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Bin-Zubair2125&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readmestreakstats.vercel.app/?user=Talha-Bin-Zubair2125&theme=tokyonight&hide_border=true" alt="Talha's GitHub Streak"/>
 </p>
 
 ---
@@ -226,7 +223,7 @@ Full Stack MERN Developer • AI/ML Enthusiast • Building Scalable AI-Powered 
 # 📊 Contribution Graph
 
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-Bin-Zubair2125&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-Bin-Zubair2125&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
