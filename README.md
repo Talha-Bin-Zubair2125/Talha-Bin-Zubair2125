@@ -1,261 +1,124 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Talha%20Bin%20Zubair&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=42)
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;AI%2FML+Enthusiast;Building+Scalable+AI-Powered+Web+Applications" alt="Typing SVG" width="100%" style="max-width:750px;" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Talha-Bin-Zubair2125&style=for-the-badge&color=blue" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Talha Bin Zubair</h1>
-
-<h3 align="center">
-Full Stack MERN Developer • AI/ML Enthusiast • Building Scalable AI-Powered Web Applications
-</h3>
-
----
-
-## 🙋‍♂️ About Me
-
-<img align="right" width="280" style="max-width:40%;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-🎓 Bachelor of Science in Computer Science from **NUML Rawalpindi**
-
-💻 Full Stack MERN Developer with hands-on industry experience
-
-🚀 Passionate about building scalable web applications and AI-powered solutions
-
-🥽 Final Year Project: **GoGuide – AR Indoor Navigation System**
-
-🤖 Exploring Artificial Intelligence & Machine Learning
-
-🏅 PM Youth Laptop Award 2025 Recipient
-
-📍 Rawalpindi, Pakistan
-
-📫 **talhazubair2125@gmail.com**
-
-🌐 Portfolio:
-> https://talha-bin-zubair2125.github.io/my-portfolio/
-
-<br clear="right"/>
-
----
-
-# 🚀 Tech Stack
-
-## 🎨 Frontend
-
-<p align="left">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
----
-
-## ⚙️ Backend
-
-<p align="left">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### Backend Technologies
-
-- REST APIs
-- JWT Authentication
-- OAuth 2.0
-- Express Sessions
-- Socket.io
-- Joi Validation
-- AI Integration
-
----
-
-## 🤖 AI & Machine Learning
-
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
-- Machine Learning
-- AI Integration
-
----
-
-## 🛠️ Tools
-
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-## 💻 Programming Languages
-
-<p align="left">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
----
-
-# 💼 Professional Experience
-
-## 🏢 Full Stack Developer Intern — CodeCelix
-
-**📅 Dec 2025 – Mar 2026**
-
-- Worked in a module-based agile development environment.
-- Developed Smart Complaint Management System using React.js, Node.js and MongoDB.
-- Built AI Business Automation SaaS platform with backend API integration.
-- Developed Online Polling & Survey Platform featuring real-time voting.
-- Designed enterprise websites including EchoSee Smart Glasses and CorpX Portfolio with GSAP animations.
-- Performed API testing using Postman.
-- Maintained version control using Git and GitHub.
-- Participated in code reviews and collaborative development.
-
----
-
-## 🏢 Full Stack Developer Intern — Arch Technologies
-
-**📅 Dec 2025 – Jan 2026**
-
-- Developed full-stack Music Player Web Application.
-- Integrated public Music APIs.
-- Used Axios for API communication.
-- Designed responsive UI with modern UX principles.
-- Collaborated using Git.
-
----
-
-## 👨‍🏫 Computer Science Instructor — My First Choice (M1C)
-
-**📅 2024 – 2025**
-
-- Taught Computer Science, Java, Python and C Programming.
-- Mentored 50+ students.
-- Focused on Programming Fundamentals, DSA and Problem Solving.
-
----
-
-# 🚀 Featured Projects
-
 <div align="center">
 
-| Project | Technologies | Description |
-|---|---|---|
-| 🥽 GoGuide AR Navigation | Unity, C#, Firebase, ARCore | Indoor AR navigation system with Firebase cloud storage and AR markers |
-| 🤖 AI Customer Support Ticket System | MERN, Socket.io, Groq AI | AI-powered ticket management with sentiment analysis and real-time updates |
-| 📝 Role-Based CMS | MERN, JWT, bcrypt | Admin, Editor & Author workflow with authentication |
-| ✅ Task Management System | MERN, JWT | Multi-role task management with analytics dashboard |
-| 🧠 AI Notes Application | React, Node.js, MongoDB | AI-powered note generation, summarization and CRUD functionality |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080c14,50:140820,100:080c14&height=180&section=header&text=Talha%20Bin%20Zubair&fontSize=50&fontColor=ec4899&animation=fadeIn&fontAlignY=38" width="100%" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=20&pause=1500&color=a855f7&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;AI%2FML+Enthusiast;Building+Scalable+Web+Applications;NUML+CS+Graduate+%7C+CGPA+3.20" alt="Typing SVG" />
+</p>
+
+[![Portfolio Badge](https://img.shields.io/badge/🌐_Explore_Portfolio-ec4899?style=for-the-badge&logoColor=white)](https://talha-bin-zubair2125.github.io/my-portfolio/)
+[![LinkedIn Badge](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-bin-zubair2125)
+[![Email Badge](https://img.shields.io/badge/📫_Mail_Me-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talhazubair2125@gmail.com)
 
 </div>
 
 ---
 
-# ⚡ Core Competencies
+## 🚀 About Me
 
-✅ Full Stack MERN Development
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=26&pause=2000&color=ec4899&center=true&vCenter=true&width=600&lines=Crafting+Digital+Experiences;Building+The+Future+With+Code" alt="Sub-header Typing" />
+</div>
 
-✅ RESTful APIs
+<br>
 
-✅ JWT Authentication
-
-✅ OAuth 2.0
-
-✅ Express Sessions
-
-✅ Socket.io
-
-✅ MongoDB
-
-✅ AI Integration
-
-✅ Machine Learning
-
-✅ Responsive UI/UX
-
-✅ Agile Development
-
-✅ Git & GitHub
-
----
-
-# 🏆 Certifications & Awards
-
-🏅 PM Youth Laptop Award (2025)
-
-📜 AI & Machine Learning — NAVTTC
-
-📜 MERN Stack Development — PNY Trainings
-
-📜 Frontend Web Development — Professional Freelancing Training Program
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-nine-ruby-1k1p7k5oec.vercel.app/api?username=Talha-Bin-Zubair2125&show_icons=true&theme=tokyonight&hide_border=true" alt="Talha's GitHub Stats"/>
-
-  <img width="49%" src="https://github-readmestreakstats.vercel.app/?user=Talha-Bin-Zubair2125&theme=tokyonight&hide_border=true" alt="Talha's GitHub Streak"/>
+<p align="center" style="font-size: 16px; line-height: 1.8; max-width: 850px;">
+👋 Hi, I'm <b>Talha Bin Zubair</b>, a passionate Full-Stack MERN Developer and recent Computer Science graduate from <b>NUML Rawalpindi</b> with a CGPA of <b>3.20 / 4.00</b>.<br>
+I specialize in architecting fast, scalable, and visually immersive web applications, fusing robust backend systems with modern UI/UX design (React, Tailwind CSS, Framer Motion) and exploring AI/ML integrations.
 </p>
 
----
+<br>
 
-# 📊 Contribution Graph
+<div align="center">
 
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-Bin-Zubair2125&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
+| 🎓 Education | 💼 Experience | 🏆 Honors | 📍 Location |
+| :---: | :---: | :---: | :---: |
+| **B.S. Computer Science** <br> NUML Rawalpindi | **2+ Internships** <br> 10+ Projects Built | **PM Youth Laptop Award** <br> (2025) | **Rawalpindi, Pakistan** |
 
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/talha-bin-zubair2125">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:talhazubair2125@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://talha-bin-zubair2125.github.io/my-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Talha-Bin-Zubair2125">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-# 💬 Developer Quote
+## 🛠️ Technical Arsenal
 
-> **"First, solve the problem. Then, write the code."** — John Johnson
+<div align="center">
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) |
+| **AI & Data** | ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) |
+| **Tools & Flow** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+
+</div>
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer)
+## 💼 Professional Experience
+
+### 🏢 Full Stack Developer Intern — CodeCelix
+*📅 Dec 2025 – Mar 2026*
+* Developed a **Smart Complaint Management System** utilizing React.js, Node.js, and MongoDB within an agile team framework.
+* Built an **AI Business Automation SaaS platform** integrated with powerful backend APIs.
+* Designed responsive enterprise platforms (including *EchoSee Smart Glasses* and *CorpX Portfolio*) styled with GSAP animations.
+* Handled comprehensive API testing with Postman and version tracking via Git/GitHub.
+
+### 🏢 Full Stack Developer Intern — Arch Technologies
+*📅 Dec 2025 – Jan 2026*
+* Engineered a full-stack **Music Player Web Application** featuring responsive UX design principles.
+* Integrated public music endpoints seamlessly utilizing Axios for high-performance communication.
+
+### 👨‍🏫 Computer Science Instructor — My First Choice (M1C)
+*📅 2024 – 2025*
+* Mentored over 50 students across Programming Fundamentals, Data Structures & Algorithms (DSA), Java, Python, and C++.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Core Stack | Description / Links |
+| :--- | :--- | :--- |
+| **🥽 GoGuide AR Navigation** | Unity, C#, Firebase, ARCore | Final-year augmented reality indoor mall navigation experience with real-time Firebase mapping. <br>🔗 [Project Demonstration (Google Drive)](https://drive.google.com) |
+| **🤖 AI Customer Support Ticket System** | MERN, Socket.io, Groq AI | Automated ticket escalation system powered by sentiment analysis and live web sockets. <br>🔗 [GitHub Repository](https://github.com/Talha-Bin-Zubair2125/AI-Customer-Support-Ticket-System) |
+| **📝 Role-Based Content Management System** | MERN, JWT, Bcrypt | Secure multi-tier platform featuring granular Admin, Editor, and Author workflows. <br>🔗 [GitHub Repository](https://github.com/Talha-Bin-Zubair2125/backend_projects/tree/main/PublishPulse) |
+| **🧠 AI Notes Application** | React, Node.js, MongoDB | Intelligent cloud notes app featuring smart auto-summarization and text generation tools. <br>🔗 [GitHub Repository](https://github.com/Talha-Bin-Zubair2125/backend_projects/tree/main/notesapp) |
+| **📦 STD Internship Management System** | MERN, JWT, Express | Application designed to track and manage interns, with secure authentication and supervisor dashboards. <br>🔗 [GitHub Repository](https://github.com/Talha-Bin-Zubair2125/stg-intern-tracker) |
+
+---
+
+## 🏆 Certifications & Honors
+
+* 🏅 **PM Youth Laptop Award** — Government of Pakistan (2025)
+* 📜 **AI & Machine Learning Certification** — NAVTTC
+* 📜 **MERN Stack Development Certification** — PNY Trainings
+* 📜 **Frontend Web Development Certification** — Professional Freelancing Training Program
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats-nine-ruby-1k1p7k5oec.vercel.app/api?username=Talha-Bin-Zubair2125&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080c14&title_color=ec4899&icon_color=a855f7&text_color=d1d5db" width="49%" />
+
+<img src="https://github-readmestreakstats.vercel.app/?user=Talha-Bin-Zubair2125&theme=tokyonight&hide_border=true&bg_color=080c14&title_color=ec4899&icon_color=a855f7&text_color=d1d5db" width="49%" />
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-Bin-Zubair2125&theme=tokyo-night&hide_border=true&bg_color=080c14&color=ec4899&line=a855f7&point=ffffff" width="100%" />
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Developer Mantra
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080c14,50:140820,100:080c14&height=120&section=footer" width="100%" />
+
+</div>
