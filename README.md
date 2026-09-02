@@ -56,14 +56,14 @@ I specialize in architecting fast, scalable, and visually immersive web applicat
 
 ## 💼 Professional Experience
 
-### 🏢 Full Stack Developer Intern — CodeCelix
+### 🏢 Web Development Intern — CodeCelix
 *📅 Dec 2025 – Mar 2026*
 * Developed a **Smart Complaint Management System** utilizing React.js, Node.js, and MongoDB within an agile team framework.
 * Built an **AI Business Automation SaaS platform** integrated with powerful backend APIs.
 * Designed responsive enterprise platforms (including *EchoSee Smart Glasses* and *CorpX Portfolio*) styled with GSAP animations.
 * Handled comprehensive API testing with Postman and version tracking via Git/GitHub.
 
-### 🏢 Full Stack Developer Intern — Arch Technologies
+### 🏢 Web Development Intern — Arch Technologies
 *📅 Dec 2025 – Jan 2026*
 * Engineered a full-stack **Music Player Web Application** featuring responsive UX design principles.
 * Integrated public music endpoints seamlessly utilizing Axios for high-performance communication.
