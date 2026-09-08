@@ -24,7 +24,7 @@
 
 <p align="center" style="font-size: 16px; line-height: 1.8; max-width: 850px;">
 👋 Hi, I'm <b>Talha Bin Zubair</b>, a passionate Full-Stack MERN Developer and recent Computer Science graduate from <b>NUML Rawalpindi</b> with a CGPA of <b>3.20 / 4.00</b>.<br>
-I specialize in architecting fast, scalable, and visually immersive web applications, fusing robust backend systems with modern UI/UX design (React, Tailwind CSS, Framer Motion) and exploring AI/ML integrations.
+I specialize in architecting fast, production-ready web applications, fusing robust backend systems with modern UI/UX design. I am actively seeking full-time opportunities to contribute my technical expertise to innovative development teams.
 </p>
 
 <br>
@@ -46,9 +46,9 @@ I specialize in architecting fast, scalable, and visually immersive web applicat
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Frontend** | ![React](https://img.shields.io/badge/React-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) <br> **JWT, Session Management, OAuth 2.0, Socket.io** |
 | **AI & Data** | ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) |
-| **Tools & Flow** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| **Tools & Flow** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) <br> **Multer, Monaco Editor** |
 
 </div>
 
@@ -56,11 +56,13 @@ I specialize in architecting fast, scalable, and visually immersive web applicat
 
 ## 💼 Professional Experience
 
-### 🏢 Web Development Intern — CodeCelix
+### 🏢 Web Development Intern — Code Celix
 *📅 Dec 2025 – Mar 2026*
-* Developed a **Smart Complaint Management System** utilizing React.js, Node.js, and MongoDB within an agile team framework.
-* Built an **AI Business Automation SaaS platform** integrated with powerful backend APIs.
-* Designed responsive enterprise platforms (including *EchoSee Smart Glasses* and *CorpX Portfolio*) styled with GSAP animations.
+* Worked in a module-based agile team to develop and integrate cohesive web products.
+* Developed a **Smart Complaint Management System** utilizing React.js and Node.js for efficient complaint tracking and workflow resolution.
+* Built a responsive **AI Business Automation SaaS Platform** integrated with powerful backend APIs.
+* Implemented an **Online Polling & Survey Platform** featuring a real-time voting system.
+* Designed enterprise-grade websites (*EchoSee Smart Glasses* and *CorpX Portfolio*) with GSAP animations and parallax effects.
 * Handled comprehensive API testing with Postman and version tracking via Git/GitHub.
 
 ### 🏢 Web Development Intern — Arch Technologies
@@ -78,11 +80,13 @@ I specialize in architecting fast, scalable, and visually immersive web applicat
 
 | Project | Core Stack | Description / Links |
 | :--- | :--- | :--- |
-| **🥽 GoGuide AR Navigation** | Unity, C#, Firebase, ARCore | Final-year augmented reality indoor mall navigation experience with real-time Firebase mapping. <br>🔗 [Project Demonstration (Google Drive)](https://drive.google.com) |
+| **💼 NutroAttend (Freelance)** | MERN, JWT, QR Code, jsPDF | Built an employee attendance and payroll system with QR-based check-in, automated salary deductions, and PDF report exports. |
+| **🛠️ SnippetCraft AI** | MERN, Groq API, Monaco Editor | Full-stack developer tool for organizing code snippets with AI-powered code reviews detecting errors and suggesting optimizations. <br>🔗 [GitHub Repository](https://github.com/Talha-Bin-Zubair2125/SnippetCraft-AI) |
+| **🥽 GoGuide AR Navigation** | Unity, C#, Firebase, ARCore | Final-year augmented reality indoor mall navigation experience with real-time Firebase mapping. <br>🔗 [Project Demonstration (Google Drive)](#) |
 | **🤖 AI Customer Support Ticket System** | MERN, Socket.io, Groq AI | Automated ticket escalation system powered by sentiment analysis and live web sockets. <br>🔗 [GitHub Repository](https://github.com/Talha-Bin-Zubair2125/AI-Customer-Support-Ticket-System) |
 | **📝 Role-Based Content Management System** | MERN, JWT, Bcrypt | Secure multi-tier platform featuring granular Admin, Editor, and Author workflows. <br>🔗 [GitHub Repository](https://github.com/Talha-Bin-Zubair2125/backend_projects/tree/main/PublishPulse) |
 | **🧠 AI Notes Application** | React, Node.js, MongoDB | Intelligent cloud notes app featuring smart auto-summarization and text generation tools. <br>🔗 [GitHub Repository](https://github.com/Talha-Bin-Zubair2125/backend_projects/tree/main/notesapp) |
-| **📦 STD Internship Management System** | MERN, JWT, Express | Application designed to track and manage interns, with secure authentication and supervisor dashboards. <br>🔗 [GitHub Repository](https://github.com/Talha-Bin-Zubair2125/stg-intern-tracker) |
+| **📦 STG Intern Tracker** | MERN, JWT, Multer, Express | Internship management platform featuring Supervisor/Internee portals and AI-powered performance insights generated from feedback. <br>🔗 [GitHub Repository](https://github.com/Talha-Bin-Zubair2125/stg-intern-tracker) |
 
 ---
 
@@ -108,7 +112,7 @@ I specialize in architecting fast, scalable, and visually immersive web applicat
 <br>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-Bin-Zubair2125&theme=tokyo-night&hide_border=true&bg_color=080c14&color=ec4899&line=a855f7&point=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph-two-delta.vercel.app/graph?username=Talha-Bin-Zubair2125&theme=tokyo-night&hide_border=true&bg_color=080c14&color=ec4899&line=a855f7&point=ffffff" width="100%" />
 </div>
 
 ---
