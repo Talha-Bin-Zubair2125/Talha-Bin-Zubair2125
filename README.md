@@ -112,7 +112,7 @@ I specialize in architecting fast, production-ready web applications, fusing rob
 <br>
 
 <div align="center">
-<img src="https://github-readme-activity-graph-two-delta.vercel.app/graph?username=Talha-Bin-Zubair2125&theme=tokyo-night&hide_border=true&bg_color=080c14&color=ec4899&line=a855f7&point=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph-two-delta.vercel.app/graph?username=talha-bin-zubair2125&theme=tokyo-night&hide_border=true&bg_color=080c14&color=ec4899&line=a855f7&point=ffffff" width="100%" />
 </div>
 
 ---
